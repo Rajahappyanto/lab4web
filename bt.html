@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="ex.css">	
+
+</head>
+<body>
+	<div id="container">
+		<header>
+			<h1>Kontak dan pendaftaran</h1>
+		</header>
+		<nav>
+			<a href="ex.html" >Home</a>
+			<a href="artikel.html">Artikel</a>
+			<a href="about.html" >About</a>
+			<a href="kontak.html" class="bored">Kontak</a>
+		</nav>
+
+
+		<form action="proses.php" method="post" style="padding: 20px;">
+			<fieldset>
+				<legend>Isi Data anda dan hubungi kontak di bawah ini</legend>
+				<p>
+					<label for="nama">Nama</label>
+					<input type="text" id="nama" name="nama">
+				</p>
+				<p>
+					<label for="eama">Email</label>
+					<input type="text" id="nama" name="nama">
+				</p>
+				<p>
+					<label for="alamat">Alamat</label>
+					<textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+				</p>
+				<p>
+					<label>Jenis Kelamin</label>
+					<input id="jk_l" type="radio" name="kelamin" value="L" /><label
+		for="jk_l">Laki-laki</label>
+					<input id="jk_p" type="radio" name="kelamin" value="P" /><label
+		for="jk_p">Perempuan</label>
+				</p>
+
+				<p><b>Kontak Saya</b></p>
+
+				<div id="oke">
+				
+					<a href="email.com" class="room">Email</a>
+					<a href="email.com" class="toom">Whatsapp</a>
+					<a href="email.com" class="doom">Instagram</a>
+
+				</div>
+				
+				
+			</fieldset>
+		</form>
+
+	</div>
+	
+</body>
+</html>
