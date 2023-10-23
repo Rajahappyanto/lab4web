@@ -20,7 +20,7 @@ Ti22a2
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
 
-![fd1](foto/fd1.png)
+![fd1](fd1.png)
 
 code
 ```
@@ -83,7 +83,7 @@ code
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
-![fd2](foto/fd2.png)
+![fd2](fd2.png)
 
 code 
 ```
