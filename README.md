@@ -4,20 +4,20 @@
 nama : raja heppyanto
 Ti22a2
 ```
-### Daftar isi
+## Daftar isi
 
 ```
 1. Tugas dan pertanyaan
 2. praktek praktikum 4
 ```
 
-### 1. Tugas dan pertanyaan. 
+## 1. Tugas dan pertanyaan. 
 
 0. halaman utama 
 
 ![ft8](foto/ft8.png)
 
-1. Tambahkan Layout untuk menu About
+### 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
 
 ![fd1](fd1.png)
@@ -80,7 +80,7 @@ code
 </html>
 ```
 
-2. Tambahkan layout untuk menu Contact
+### 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
 ![fd2](fd2.png)
@@ -152,7 +152,7 @@ code
 </html>
 ```
 
-### 2. latihan praktikum
+## 2. latihan praktikum
 
 1. Buat kerangka layout
 
